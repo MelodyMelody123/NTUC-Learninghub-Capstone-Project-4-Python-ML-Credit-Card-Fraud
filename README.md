@@ -108,7 +108,7 @@ Checking model performance on test set
 
 ![Screenshot](https://i.imgur.com/OGSmAQN.png)
 
-There is good performace and not much issue with overfitting for both machine learning models, since the results for testing are close to results for training.
+There is good performance and not much issue with overfitting for both machine learning models, since the results for testing are close to results for training.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Recommendations**
