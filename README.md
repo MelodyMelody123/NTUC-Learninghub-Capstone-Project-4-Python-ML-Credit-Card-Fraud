@@ -45,7 +45,8 @@ In today’s digital world where trillions of Card transaction happens per day, 
     However, being proper value, they are not treated.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Insights**
-* Exploratory Data Analysis
+
+Exploratory Data Analysis
 
 ![Screenshot](https://i.imgur.com/zTZ3bXn.png)
 
@@ -76,6 +77,7 @@ In today’s digital world where trillions of Card transaction happens per day, 
 
 ![Screenshot](https://i.imgur.com/ZxxFUoS.png)
 
+Machine Learning Models
 
 * Bagging Classifier
 
