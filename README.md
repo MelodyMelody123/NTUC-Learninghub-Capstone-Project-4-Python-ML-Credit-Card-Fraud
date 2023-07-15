@@ -72,7 +72,7 @@ Exploratory Data Analysis
 
 ![Screenshot](https://i.imgur.com/VxthtQs.png)
 
-
+Data Reprocessing
 * Outlier Check
 
 ![Screenshot](https://i.imgur.com/ZxxFUoS.png)
