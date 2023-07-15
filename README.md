@@ -16,6 +16,7 @@ Digital payments are evolving, but so are cyber criminals.
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 According to the Data Breach Index, more than 5 million records are being stolen on a daily basis, a concerning statistic that shows - fraud is still very common both for Card-Present and Card-not Present type of payments.
 In today’s digital world where trillions of Card transaction happens per day, detection of fraud is challenging.
+
 [Credit Card Fraud | Kaggle](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Role
@@ -40,6 +41,7 @@ In today’s digital world where trillions of Card transaction happens per day, 
 **Data Reprocessing**
   - There are no missing values or duplicates.
   - There are outliers observed for “distance_from_home”, “distance_from_last_transaction” & “ratio_to_median_purchase_price”.
+
     However, being proper value, they are not treated.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Recommendations**
