@@ -45,6 +45,10 @@ In today’s digital world where trillions of Card transaction happens per day, 
     However, being proper value, they are not treated.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Insights**
+*Exploratory Data Analysis
+![Screenshot](https://imgur.com/3428fd62-e131-42d5-9a96-370ffe73b1c4)
+
+*Univariate Analysis
 ![Screenshot](https://i.imgur.com/7vEGgsd.png)
 
 ![Screenshot](https://i.imgur.com/UIz6Mcp.png)
@@ -61,9 +65,15 @@ In today’s digital world where trillions of Card transaction happens per day, 
 
 ![Screenshot](https://i.imgur.com/vuoZ7FS.png)
 
+*Bivariate Analysis
+
 ![Screenshot](https://i.imgur.com/VxthtQs.png)
 
+*Outlier Check
+
 ![Screenshot](https://i.imgur.com/ZxxFUoS.png)
+
+*Bagging Classifier
 
 ![Screenshot](https://i.imgur.com/KoEkrx5.png)
 
@@ -71,13 +81,15 @@ In today’s digital world where trillions of Card transaction happens per day, 
 
 ![Screenshot](https://i.imgur.com/kj0YnP4.png)
 
+*Random Forest
+
 ![Screenshot](https://i.imgur.com/6RqwAky.png)
 
 ![Screenshot](https://i.imgur.com/tTbWBxF.png)
 
-![Screenshot](https://i.imgur.com/jD9cr9R.png)
+![Screenshot](https://i.imgur.com/OGSmAQN.png)
 
-There us good performace and not much issue with overfitting for both machine learning models, since the results for testing are close to results for training.
+There is good performace and not much issue with overfitting for both machine learning models, since the results for testing are close to results for training.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Recommendations**
