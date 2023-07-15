@@ -46,9 +46,11 @@ In today’s digital world where trillions of Card transaction happens per day, 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Insights**
 *Exploratory Data Analysis
+
 ![Screenshot](https://imgur.com/3428fd62-e131-42d5-9a96-370ffe73b1c4)
 
 *Univariate Analysis
+
 ![Screenshot](https://i.imgur.com/7vEGgsd.png)
 
 ![Screenshot](https://i.imgur.com/UIz6Mcp.png)
@@ -69,9 +71,11 @@ In today’s digital world where trillions of Card transaction happens per day, 
 
 ![Screenshot](https://i.imgur.com/VxthtQs.png)
 
+
 *Outlier Check
 
 ![Screenshot](https://i.imgur.com/ZxxFUoS.png)
+
 
 *Bagging Classifier
 
@@ -80,6 +84,7 @@ In today’s digital world where trillions of Card transaction happens per day, 
 ![Screenshot](https://i.imgur.com/1Xtr3yi.png)
 
 ![Screenshot](https://i.imgur.com/kj0YnP4.png)
+
 
 *Random Forest
 
