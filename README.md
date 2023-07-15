@@ -44,5 +44,25 @@ In today’s digital world where trillions of Card transaction happens per day, 
 
     However, being proper value, they are not treated.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Insights**
+https://i.imgur.com/7vEGgsd.png
+https://i.imgur.com/UIz6Mcp.png
+https://i.imgur.com/iS6w6iH.png
+https://i.imgur.com/HNDn3eu.png
+https://i.imgur.com/a98DBkL.png
+https://i.imgur.com/hRztHfn.png
+https://i.imgur.com/x02aJtX.png
+https://i.imgur.com/vuoZ7FS.png
+https://i.imgur.com/VxthtQs.png
+https://i.imgur.com/ZxxFUoS.png
+https://i.imgur.com/KoEkrx5.png
+https://i.imgur.com/1Xtr3yi.png
+https://i.imgur.com/kj0YnP4.png
+https://i.imgur.com/6RqwAky.png
+https://i.imgur.com/tTbWBxF.png
+https://i.imgur.com/jD9cr9R.png
+
+There is good performance and not much issue with overfitting for both machine learning models, since the results for testing is close to results for training.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Recommendations**
 Random Forest is recommended for use, due to better performance, as compared to bagging.
