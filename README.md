@@ -1,5 +1,5 @@
 # Capstone-Project-4-Python-ML-Credit-Card-Fraud
-Contents/Agenda
+**Contents/Agenda**
   * Introduction
     - Role
     - Business Problem Overview
@@ -10,6 +10,7 @@ Contents/Agenda
     - Actionable Insights
     - Recommendations
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Introduction**
 * Business Challenge Overview
 Digital payments are evolving, but so are cyber criminals.
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
@@ -26,7 +27,7 @@ In today’s digital world where trillions of Card transaction happens per day, 
   - Train and test machine learning models
   - Share insights and recommendations
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* Data Overview
+**Data Overview**
   1. distance_from_home            : the distance from home where the transaction happened.
   2. distance_from_last_transaction: the distance from last transaction happened.
   3. ratio_to_median_purchase_price: Ratio of purchased price transaction to median purchase price.
@@ -36,11 +37,11 @@ In today’s digital world where trillions of Card transaction happens per day, 
   7. online_order                  : Is the transaction an online order.
   8. Fraud                         : Is the transaction fraudulent.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* Data Reprocessing
+**Data Reprocessing**
   - There are no missing values or duplicates.
-  - There are outliers observed for “distance_from_home”, “distance_from_last_transaction” & “ratio_to_median_purchase_price”. However, being proper value, they are not treated.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* Recommendations
+  - There are outliers observed for “distance_from_home”, “distance_from_last_transaction” & “ratio_to_median_purchase_price”.
+    However, being proper value, they are not treated.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**Recommendations**
 Random Forest is recommended for use, due to better performance, as compared to bagging.
 
 
