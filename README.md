@@ -41,8 +41,6 @@ In today’s digital world where trillions of Card transaction happens per day, 
   - There are no missing values or duplicates.
   - There are outliers observed for “distance_from_home”, “distance_from_last_transaction” & “ratio_to_median_purchase_price”.
     However, being proper value, they are not treated.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**Recommendations**
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Recommendations**
 Random Forest is recommended for use, due to better performance, as compared to bagging.
-
-
-
