@@ -45,11 +45,11 @@ In today’s digital world where trillions of Card transaction happens per day, 
     However, being proper value, they are not treated.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Insights**
-*Exploratory Data Analysis
+* Exploratory Data Analysis
 
 ![Screenshot](https://i.imgur.com/zTZ3bXn.png)
 
-*Univariate Analysis
+* Univariate Analysis
 
 ![Screenshot](https://i.imgur.com/7vEGgsd.png)
 
@@ -67,17 +67,17 @@ In today’s digital world where trillions of Card transaction happens per day, 
 
 ![Screenshot](https://i.imgur.com/vuoZ7FS.png)
 
-*Bivariate Analysis
+* Bivariate Analysis
 
 ![Screenshot](https://i.imgur.com/VxthtQs.png)
 
 
-*Outlier Check
+* Outlier Check
 
 ![Screenshot](https://i.imgur.com/ZxxFUoS.png)
 
 
-*Bagging Classifier
+* Bagging Classifier
 
 Checking model performance on training set
 
@@ -92,7 +92,7 @@ Checking model performance on test set
 ![Screenshot](https://i.imgur.com/kj0YnP4.png)
 
 
-*Random Forest
+* Random Forest
 
 Checking model performance on training set
 
