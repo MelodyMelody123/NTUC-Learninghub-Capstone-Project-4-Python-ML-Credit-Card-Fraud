@@ -47,7 +47,7 @@ In today’s digital world where trillions of Card transaction happens per day, 
 **Insights**
 *Exploratory Data Analysis
 
-![Screenshot](https://imgur.com/3428fd62-e131-42d5-9a96-370ffe73b1c4)
+![Screenshot](https://i.imgur.com/zTZ3bXn.png)
 
 *Univariate Analysis
 
