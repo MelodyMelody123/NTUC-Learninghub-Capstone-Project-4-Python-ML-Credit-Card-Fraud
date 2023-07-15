@@ -77,7 +77,8 @@ https://i.imgur.com/tTbWBxF.png
 
 https://i.imgur.com/jD9cr9R.png
 
-There is good performance and not much issue with overfitting for both machine learning models, since the results for testing is close to results for training.
+There us good performace and not much issue with overfitting for both machine learning models, since the results for testing are close to results for training.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Recommendations**
 
