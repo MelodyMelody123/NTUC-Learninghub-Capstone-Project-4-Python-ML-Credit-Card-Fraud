@@ -79,18 +79,30 @@ In today’s digital world where trillions of Card transaction happens per day, 
 
 *Bagging Classifier
 
-![Screenshot](https://i.imgur.com/KoEkrx5.png)
+Checking model performance on training set
 
-![Screenshot](https://i.imgur.com/1Xtr3yi.png)
+![Screenshot](https://i.imgur.com/ZSQ3Ev5.png)
+
+![Screenshot](https://i.imgur.com/X1Zoqm9.png)
+
+Checking model performance on test set
+
+![Screenshot](https://i.imgur.com/9eIbVyr.png)
 
 ![Screenshot](https://i.imgur.com/kj0YnP4.png)
 
 
 *Random Forest
 
-![Screenshot](https://i.imgur.com/6RqwAky.png)
+Checking model performance on training set
 
-![Screenshot](https://i.imgur.com/tTbWBxF.png)
+![Screenshot](https://i.imgur.com/Ni6Kzq0.png)
+
+![Screenshot](https://i.imgur.com/paqXT6J.png)
+
+Checking model performance on test set
+
+![Screenshot](https://i.imgur.com/Ni6Kzq0.png)
 
 ![Screenshot](https://i.imgur.com/OGSmAQN.png)
 
